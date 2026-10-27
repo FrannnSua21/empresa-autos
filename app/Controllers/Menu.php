@@ -6,6 +6,6 @@ class Menu extends BaseController
 {
     public function index()
     {
-        return view('Menu');
+        return view('menu');
     }
 }

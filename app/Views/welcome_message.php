@@ -57,7 +57,7 @@
 
     <div class="contenedor">
         <h1>¡Bienvenido!</h1>
-        <p>Nos alegra tenerte aquí. Esperamos que disfrutes tu visita.</p>
+        <p>67</p>
         <button onclick="alert('¡Gracias por visitarnos!')">
             Comenzar
         </button>
